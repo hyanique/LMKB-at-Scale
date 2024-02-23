@@ -22,7 +22,7 @@ You can download our world knowledge dataset from [link](https://drive.google.co
 {"subj":"subject_text","rel":"relation_text","obj":"object_text"}
 ```
 
-Other downstream dataset are avaiable in the `/data` folder. 
+Other downstream dataset are available in the `/data` folder. 
 
 ## Code
 
